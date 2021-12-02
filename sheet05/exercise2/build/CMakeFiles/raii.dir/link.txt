@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -Wpedantic   CMakeFiles/raii.dir/main.cpp.o  -o raii  lib/libraii_core.a 

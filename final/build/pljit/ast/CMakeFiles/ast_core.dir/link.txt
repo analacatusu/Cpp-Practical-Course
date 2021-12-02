@@ -1,0 +1,2 @@
+/usr/bin/ar qc libast_core.a  CMakeFiles/ast_core.dir/ASTPrintVisitor.cpp.o CMakeFiles/ast_core.dir/AST.cpp.o CMakeFiles/ast_core.dir/ASTOptimizerDeadCode.cpp.o CMakeFiles/ast_core.dir/ASTOptimizerConstantPropagation.cpp.o
+/usr/bin/ranlib libast_core.a

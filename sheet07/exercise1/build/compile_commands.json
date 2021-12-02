@@ -1,0 +1,77 @@
+[
+{
+  "directory": "/home/ana/Cpp-Practical-Course/sheet07/exercise1/build/cmake/thirdparty/googletest/googletest",
+  "command": "/usr/bin/c++   -isystem /home/ana/Cpp-Practical-Course/sheet07/exercise1/cmake/thirdparty/googletest/googletest/include -isystem /home/ana/Cpp-Practical-Course/sheet07/exercise1/cmake/thirdparty/googletest/googletest   -Wall -Wextra -Wpedantic   -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /home/ana/Cpp-Practical-Course/sheet07/exercise1/cmake/thirdparty/googletest/googletest/src/gtest_main.cc",
+  "file": "/home/ana/Cpp-Practical-Course/sheet07/exercise1/cmake/thirdparty/googletest/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/home/ana/Cpp-Practical-Course/sheet07/exercise1/build/cmake/thirdparty/googletest/googletest",
+  "command": "/usr/bin/c++   -I/home/ana/Cpp-Practical-Course/sheet07/exercise1/cmake/thirdparty/googletest/googletest/include -I/home/ana/Cpp-Practical-Course/sheet07/exercise1/cmake/thirdparty/googletest/googletest   -Wall -Wextra -Wpedantic   -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/ana/Cpp-Practical-Course/sheet07/exercise1/cmake/thirdparty/googletest/googletest/src/gtest-all.cc",
+  "file": "/home/ana/Cpp-Practical-Course/sheet07/exercise1/cmake/thirdparty/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/ana/Cpp-Practical-Course/sheet07/exercise1/build/lib",
+  "command": "/usr/bin/c++   -I/home/ana/Cpp-Practical-Course/sheet07/exercise1   -Wall -Wextra -Wpedantic   -std=gnu++2a -o CMakeFiles/allocator_list_dummy.dir/Find_dummy.cpp.o -c /home/ana/Cpp-Practical-Course/sheet07/exercise1/lib/Find_dummy.cpp",
+  "file": "/home/ana/Cpp-Practical-Course/sheet07/exercise1/lib/Find_dummy.cpp"
+},
+{
+  "directory": "/home/ana/Cpp-Practical-Course/sheet07/exercise1/build/lib",
+  "command": "/usr/bin/c++   -I/home/ana/Cpp-Practical-Course/sheet07/exercise1   -Wall -Wextra -Wpedantic   -std=gnu++2a -o CMakeFiles/allocator_list_dummy.dir/List_dummy.cpp.o -c /home/ana/Cpp-Practical-Course/sheet07/exercise1/lib/List_dummy.cpp",
+  "file": "/home/ana/Cpp-Practical-Course/sheet07/exercise1/lib/List_dummy.cpp"
+},
+{
+  "directory": "/home/ana/Cpp-Practical-Course/sheet07/exercise1/build/lib",
+  "command": "/usr/bin/c++   -I/home/ana/Cpp-Practical-Course/sheet07/exercise1   -Wall -Wextra -Wpedantic   -std=gnu++2a -o CMakeFiles/allocator_list_dummy.dir/MallocAllocator_dummy.cpp.o -c /home/ana/Cpp-Practical-Course/sheet07/exercise1/lib/MallocAllocator_dummy.cpp",
+  "file": "/home/ana/Cpp-Practical-Course/sheet07/exercise1/lib/MallocAllocator_dummy.cpp"
+},
+{
+  "directory": "/home/ana/Cpp-Practical-Course/sheet07/exercise1/build/lib",
+  "command": "/usr/bin/c++   -I/home/ana/Cpp-Practical-Course/sheet07/exercise1   -Wall -Wextra -Wpedantic   -std=gnu++2a -o CMakeFiles/allocator_list_dummy.dir/PooledAllocator_dummy.cpp.o -c /home/ana/Cpp-Practical-Course/sheet07/exercise1/lib/PooledAllocator_dummy.cpp",
+  "file": "/home/ana/Cpp-Practical-Course/sheet07/exercise1/lib/PooledAllocator_dummy.cpp"
+},
+{
+  "directory": "/home/ana/Cpp-Practical-Course/sheet07/exercise1/build/test",
+  "command": "/usr/bin/c++   -I/home/ana/Cpp-Practical-Course/sheet07/exercise1 -isystem /home/ana/Cpp-Practical-Course/sheet07/exercise1/cmake/thirdparty/googletest/googletest/include -isystem /home/ana/Cpp-Practical-Course/sheet07/exercise1/cmake/thirdparty/googletest/googletest   -Wall -Wextra -Wpedantic   -std=gnu++2a -o CMakeFiles/tester_c.dir/Tester.cpp.o -c /home/ana/Cpp-Practical-Course/sheet07/exercise1/test/Tester.cpp",
+  "file": "/home/ana/Cpp-Practical-Course/sheet07/exercise1/test/Tester.cpp"
+},
+{
+  "directory": "/home/ana/Cpp-Practical-Course/sheet07/exercise1/build/test",
+  "command": "/usr/bin/c++   -I/home/ana/Cpp-Practical-Course/sheet07/exercise1 -isystem /home/ana/Cpp-Practical-Course/sheet07/exercise1/cmake/thirdparty/googletest/googletest/include -isystem /home/ana/Cpp-Practical-Course/sheet07/exercise1/cmake/thirdparty/googletest/googletest   -Wall -Wextra -Wpedantic   -std=gnu++2a -o CMakeFiles/tester_c.dir/TestList.cpp.o -c /home/ana/Cpp-Practical-Course/sheet07/exercise1/test/TestList.cpp",
+  "file": "/home/ana/Cpp-Practical-Course/sheet07/exercise1/test/TestList.cpp"
+},
+{
+  "directory": "/home/ana/Cpp-Practical-Course/sheet07/exercise1/build/test",
+  "command": "/usr/bin/c++   -I/home/ana/Cpp-Practical-Course/sheet07/exercise1 -isystem /home/ana/Cpp-Practical-Course/sheet07/exercise1/cmake/thirdparty/googletest/googletest/include -isystem /home/ana/Cpp-Practical-Course/sheet07/exercise1/cmake/thirdparty/googletest/googletest   -Wall -Wextra -Wpedantic   -std=gnu++2a -o CMakeFiles/tester_d.dir/Tester.cpp.o -c /home/ana/Cpp-Practical-Course/sheet07/exercise1/test/Tester.cpp",
+  "file": "/home/ana/Cpp-Practical-Course/sheet07/exercise1/test/Tester.cpp"
+},
+{
+  "directory": "/home/ana/Cpp-Practical-Course/sheet07/exercise1/build/test",
+  "command": "/usr/bin/c++   -I/home/ana/Cpp-Practical-Course/sheet07/exercise1 -isystem /home/ana/Cpp-Practical-Course/sheet07/exercise1/cmake/thirdparty/googletest/googletest/include -isystem /home/ana/Cpp-Practical-Course/sheet07/exercise1/cmake/thirdparty/googletest/googletest   -Wall -Wextra -Wpedantic   -std=gnu++2a -o CMakeFiles/tester_d.dir/TestFind.cpp.o -c /home/ana/Cpp-Practical-Course/sheet07/exercise1/test/TestFind.cpp",
+  "file": "/home/ana/Cpp-Practical-Course/sheet07/exercise1/test/TestFind.cpp"
+},
+{
+  "directory": "/home/ana/Cpp-Practical-Course/sheet07/exercise1/build/test",
+  "command": "/usr/bin/c++   -I/home/ana/Cpp-Practical-Course/sheet07/exercise1 -isystem /home/ana/Cpp-Practical-Course/sheet07/exercise1/cmake/thirdparty/googletest/googletest/include -isystem /home/ana/Cpp-Practical-Course/sheet07/exercise1/cmake/thirdparty/googletest/googletest   -Wall -Wextra -Wpedantic   -std=gnu++2a -o CMakeFiles/tester_b.dir/Tester.cpp.o -c /home/ana/Cpp-Practical-Course/sheet07/exercise1/test/Tester.cpp",
+  "file": "/home/ana/Cpp-Practical-Course/sheet07/exercise1/test/Tester.cpp"
+},
+{
+  "directory": "/home/ana/Cpp-Practical-Course/sheet07/exercise1/build/test",
+  "command": "/usr/bin/c++   -I/home/ana/Cpp-Practical-Course/sheet07/exercise1 -isystem /home/ana/Cpp-Practical-Course/sheet07/exercise1/cmake/thirdparty/googletest/googletest/include -isystem /home/ana/Cpp-Practical-Course/sheet07/exercise1/cmake/thirdparty/googletest/googletest   -Wall -Wextra -Wpedantic   -std=gnu++2a -o CMakeFiles/tester_b.dir/TestPooledAllocator.cpp.o -c /home/ana/Cpp-Practical-Course/sheet07/exercise1/test/TestPooledAllocator.cpp",
+  "file": "/home/ana/Cpp-Practical-Course/sheet07/exercise1/test/TestPooledAllocator.cpp"
+},
+{
+  "directory": "/home/ana/Cpp-Practical-Course/sheet07/exercise1/build/test",
+  "command": "/usr/bin/c++   -I/home/ana/Cpp-Practical-Course/sheet07/exercise1 -isystem /home/ana/Cpp-Practical-Course/sheet07/exercise1/cmake/thirdparty/googletest/googletest/include -isystem /home/ana/Cpp-Practical-Course/sheet07/exercise1/cmake/thirdparty/googletest/googletest   -Wall -Wextra -Wpedantic   -std=gnu++2a -o CMakeFiles/tester_a.dir/Tester.cpp.o -c /home/ana/Cpp-Practical-Course/sheet07/exercise1/test/Tester.cpp",
+  "file": "/home/ana/Cpp-Practical-Course/sheet07/exercise1/test/Tester.cpp"
+},
+{
+  "directory": "/home/ana/Cpp-Practical-Course/sheet07/exercise1/build/test",
+  "command": "/usr/bin/c++   -I/home/ana/Cpp-Practical-Course/sheet07/exercise1 -isystem /home/ana/Cpp-Practical-Course/sheet07/exercise1/cmake/thirdparty/googletest/googletest/include -isystem /home/ana/Cpp-Practical-Course/sheet07/exercise1/cmake/thirdparty/googletest/googletest   -Wall -Wextra -Wpedantic   -std=gnu++2a -o CMakeFiles/tester_a.dir/TestMallocAllocator.cpp.o -c /home/ana/Cpp-Practical-Course/sheet07/exercise1/test/TestMallocAllocator.cpp",
+  "file": "/home/ana/Cpp-Practical-Course/sheet07/exercise1/test/TestMallocAllocator.cpp"
+},
+{
+  "directory": "/home/ana/Cpp-Practical-Course/sheet07/exercise1/build/benchmark",
+  "command": "/usr/bin/c++   -I/home/ana/Cpp-Practical-Course/sheet07/exercise1   -Wall -Wextra -Wpedantic   -std=gnu++2a -o CMakeFiles/allocator_benchmark.dir/main.cpp.o -c /home/ana/Cpp-Practical-Course/sheet07/exercise1/benchmark/main.cpp",
+  "file": "/home/ana/Cpp-Practical-Course/sheet07/exercise1/benchmark/main.cpp"
+}
+]

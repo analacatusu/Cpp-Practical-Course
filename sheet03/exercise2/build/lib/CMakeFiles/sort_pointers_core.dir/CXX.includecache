@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../lib/SortPointers.hpp
+
+/home/ana/Documents/cpp-praktikum-exercices/sheet03/exercise2/lib/SortPointers.cpp
+lib/SortPointers.hpp
+/home/ana/Documents/cpp-praktikum-exercices/sheet03/exercise2/lib/lib/SortPointers.hpp
+cassert
+-
+vector
+-
+

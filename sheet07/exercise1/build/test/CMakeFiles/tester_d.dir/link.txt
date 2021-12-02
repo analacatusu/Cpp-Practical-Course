@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -Wpedantic   CMakeFiles/tester_d.dir/Tester.cpp.o CMakeFiles/tester_d.dir/TestFind.cpp.o  -o tester_d  ../lib/libgtest.a -lpthread 

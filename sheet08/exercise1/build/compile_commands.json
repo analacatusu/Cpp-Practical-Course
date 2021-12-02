@@ -1,0 +1,147 @@
+[
+{
+  "directory": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/build/cmake/thirdparty/googletest/googletest",
+  "command": "/usr/bin/c++   -isystem /home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/googletest/googletest/include -isystem /home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/googletest/googletest   -Wall -Wextra -Wpedantic   -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/googletest/googletest/src/gtest_main.cc",
+  "file": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/googletest/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/build/cmake/thirdparty/googletest/googletest",
+  "command": "/usr/bin/c++   -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/googletest/googletest/include -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/googletest/googletest   -Wall -Wextra -Wpedantic   -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/googletest/googletest/src/gtest-all.cc",
+  "file": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/build/cmake/thirdparty/benchmark/src",
+  "command": "/usr/bin/c++  -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/include -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/../include   -Wall -Wextra -Wpedantic  -std=c++11  -Wall  -Wextra  -Wshadow  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing   -std=gnu++2a -o CMakeFiles/benchmark_main.dir/benchmark_main.cc.o -c /home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/benchmark_main.cc",
+  "file": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/benchmark_main.cc"
+},
+{
+  "directory": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/build/cmake/thirdparty/benchmark/src",
+  "command": "/usr/bin/c++  -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/include -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/../include   -Wall -Wextra -Wpedantic  -std=c++11  -Wall  -Wextra  -Wshadow  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing   -std=gnu++2a -o CMakeFiles/benchmark.dir/benchmark.cc.o -c /home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/benchmark.cc",
+  "file": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/benchmark.cc"
+},
+{
+  "directory": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/build/cmake/thirdparty/benchmark/src",
+  "command": "/usr/bin/c++  -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/include -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/../include   -Wall -Wextra -Wpedantic  -std=c++11  -Wall  -Wextra  -Wshadow  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing   -std=gnu++2a -o CMakeFiles/benchmark.dir/benchmark_api_internal.cc.o -c /home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/benchmark_api_internal.cc",
+  "file": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/benchmark_api_internal.cc"
+},
+{
+  "directory": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/build/cmake/thirdparty/benchmark/src",
+  "command": "/usr/bin/c++  -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/include -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/../include   -Wall -Wextra -Wpedantic  -std=c++11  -Wall  -Wextra  -Wshadow  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing   -std=gnu++2a -o CMakeFiles/benchmark.dir/benchmark_name.cc.o -c /home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/benchmark_name.cc",
+  "file": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/benchmark_name.cc"
+},
+{
+  "directory": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/build/cmake/thirdparty/benchmark/src",
+  "command": "/usr/bin/c++  -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/include -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/../include   -Wall -Wextra -Wpedantic  -std=c++11  -Wall  -Wextra  -Wshadow  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing   -std=gnu++2a -o CMakeFiles/benchmark.dir/benchmark_register.cc.o -c /home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/benchmark_register.cc",
+  "file": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/benchmark_register.cc"
+},
+{
+  "directory": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/build/cmake/thirdparty/benchmark/src",
+  "command": "/usr/bin/c++  -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/include -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/../include   -Wall -Wextra -Wpedantic  -std=c++11  -Wall  -Wextra  -Wshadow  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing   -std=gnu++2a -o CMakeFiles/benchmark.dir/benchmark_runner.cc.o -c /home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/benchmark_runner.cc",
+  "file": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/benchmark_runner.cc"
+},
+{
+  "directory": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/build/cmake/thirdparty/benchmark/src",
+  "command": "/usr/bin/c++  -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/include -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/../include   -Wall -Wextra -Wpedantic  -std=c++11  -Wall  -Wextra  -Wshadow  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing   -std=gnu++2a -o CMakeFiles/benchmark.dir/colorprint.cc.o -c /home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/colorprint.cc",
+  "file": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/colorprint.cc"
+},
+{
+  "directory": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/build/cmake/thirdparty/benchmark/src",
+  "command": "/usr/bin/c++  -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/include -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/../include   -Wall -Wextra -Wpedantic  -std=c++11  -Wall  -Wextra  -Wshadow  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing   -std=gnu++2a -o CMakeFiles/benchmark.dir/commandlineflags.cc.o -c /home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/commandlineflags.cc",
+  "file": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/commandlineflags.cc"
+},
+{
+  "directory": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/build/cmake/thirdparty/benchmark/src",
+  "command": "/usr/bin/c++  -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/include -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/../include   -Wall -Wextra -Wpedantic  -std=c++11  -Wall  -Wextra  -Wshadow  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing   -std=gnu++2a -o CMakeFiles/benchmark.dir/complexity.cc.o -c /home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/complexity.cc",
+  "file": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/complexity.cc"
+},
+{
+  "directory": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/build/cmake/thirdparty/benchmark/src",
+  "command": "/usr/bin/c++  -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/include -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/../include   -Wall -Wextra -Wpedantic  -std=c++11  -Wall  -Wextra  -Wshadow  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing   -std=gnu++2a -o CMakeFiles/benchmark.dir/console_reporter.cc.o -c /home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/console_reporter.cc",
+  "file": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/console_reporter.cc"
+},
+{
+  "directory": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/build/cmake/thirdparty/benchmark/src",
+  "command": "/usr/bin/c++  -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/include -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/../include   -Wall -Wextra -Wpedantic  -std=c++11  -Wall  -Wextra  -Wshadow  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing   -std=gnu++2a -o CMakeFiles/benchmark.dir/counter.cc.o -c /home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/counter.cc",
+  "file": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/counter.cc"
+},
+{
+  "directory": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/build/cmake/thirdparty/benchmark/src",
+  "command": "/usr/bin/c++  -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/include -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/../include   -Wall -Wextra -Wpedantic  -std=c++11  -Wall  -Wextra  -Wshadow  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing   -std=gnu++2a -o CMakeFiles/benchmark.dir/csv_reporter.cc.o -c /home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/csv_reporter.cc",
+  "file": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/csv_reporter.cc"
+},
+{
+  "directory": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/build/cmake/thirdparty/benchmark/src",
+  "command": "/usr/bin/c++  -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/include -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/../include   -Wall -Wextra -Wpedantic  -std=c++11  -Wall  -Wextra  -Wshadow  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing   -std=gnu++2a -o CMakeFiles/benchmark.dir/json_reporter.cc.o -c /home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/json_reporter.cc",
+  "file": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/json_reporter.cc"
+},
+{
+  "directory": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/build/cmake/thirdparty/benchmark/src",
+  "command": "/usr/bin/c++  -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/include -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/../include   -Wall -Wextra -Wpedantic  -std=c++11  -Wall  -Wextra  -Wshadow  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing   -std=gnu++2a -o CMakeFiles/benchmark.dir/reporter.cc.o -c /home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/reporter.cc",
+  "file": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/reporter.cc"
+},
+{
+  "directory": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/build/cmake/thirdparty/benchmark/src",
+  "command": "/usr/bin/c++  -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/include -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/../include   -Wall -Wextra -Wpedantic  -std=c++11  -Wall  -Wextra  -Wshadow  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing   -std=gnu++2a -o CMakeFiles/benchmark.dir/sleep.cc.o -c /home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/sleep.cc",
+  "file": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/sleep.cc"
+},
+{
+  "directory": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/build/cmake/thirdparty/benchmark/src",
+  "command": "/usr/bin/c++  -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/include -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/../include   -Wall -Wextra -Wpedantic  -std=c++11  -Wall  -Wextra  -Wshadow  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing   -std=gnu++2a -o CMakeFiles/benchmark.dir/statistics.cc.o -c /home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/statistics.cc",
+  "file": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/statistics.cc"
+},
+{
+  "directory": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/build/cmake/thirdparty/benchmark/src",
+  "command": "/usr/bin/c++  -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/include -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/../include   -Wall -Wextra -Wpedantic  -std=c++11  -Wall  -Wextra  -Wshadow  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing   -std=gnu++2a -o CMakeFiles/benchmark.dir/string_util.cc.o -c /home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/string_util.cc",
+  "file": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/string_util.cc"
+},
+{
+  "directory": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/build/cmake/thirdparty/benchmark/src",
+  "command": "/usr/bin/c++  -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/include -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/../include   -Wall -Wextra -Wpedantic  -std=c++11  -Wall  -Wextra  -Wshadow  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing   -std=gnu++2a -o CMakeFiles/benchmark.dir/sysinfo.cc.o -c /home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/sysinfo.cc",
+  "file": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/sysinfo.cc"
+},
+{
+  "directory": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/build/cmake/thirdparty/benchmark/src",
+  "command": "/usr/bin/c++  -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/include -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/../include   -Wall -Wextra -Wpedantic  -std=c++11  -Wall  -Wextra  -Wshadow  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing   -std=gnu++2a -o CMakeFiles/benchmark.dir/timers.cc.o -c /home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/timers.cc",
+  "file": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/timers.cc"
+},
+{
+  "directory": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/build/lib",
+  "command": "/usr/bin/c++   -I/home/ana/Cpp-Practical-Course/sheet08/exercise1   -Wall -Wextra -Wpedantic   -std=gnu++2a -o CMakeFiles/parallel_ht_core.dir/AtomicMultiMap.cpp.o -c /home/ana/Cpp-Practical-Course/sheet08/exercise1/lib/AtomicMultiMap.cpp",
+  "file": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/lib/AtomicMultiMap.cpp"
+},
+{
+  "directory": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/build/lib",
+  "command": "/usr/bin/c++   -I/home/ana/Cpp-Practical-Course/sheet08/exercise1   -Wall -Wextra -Wpedantic   -std=gnu++2a -o CMakeFiles/parallel_ht_core.dir/MultiMap.cpp.o -c /home/ana/Cpp-Practical-Course/sheet08/exercise1/lib/MultiMap.cpp",
+  "file": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/lib/MultiMap.cpp"
+},
+{
+  "directory": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/build/lib",
+  "command": "/usr/bin/c++   -I/home/ana/Cpp-Practical-Course/sheet08/exercise1   -Wall -Wextra -Wpedantic   -std=gnu++2a -o CMakeFiles/parallel_ht_core.dir/MutexMultiMap.cpp.o -c /home/ana/Cpp-Practical-Course/sheet08/exercise1/lib/MutexMultiMap.cpp",
+  "file": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/lib/MutexMultiMap.cpp"
+},
+{
+  "directory": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/build/test",
+  "command": "/usr/bin/c++   -I/home/ana/Cpp-Practical-Course/sheet08/exercise1 -isystem /home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/googletest/googletest/include -isystem /home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/googletest/googletest   -Wall -Wextra -Wpedantic   -std=gnu++2a -o CMakeFiles/tester.dir/TestAtomicMultiMap.cpp.o -c /home/ana/Cpp-Practical-Course/sheet08/exercise1/test/TestAtomicMultiMap.cpp",
+  "file": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/test/TestAtomicMultiMap.cpp"
+},
+{
+  "directory": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/build/test",
+  "command": "/usr/bin/c++   -I/home/ana/Cpp-Practical-Course/sheet08/exercise1 -isystem /home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/googletest/googletest/include -isystem /home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/googletest/googletest   -Wall -Wextra -Wpedantic   -std=gnu++2a -o CMakeFiles/tester.dir/TestMultiMap.cpp.o -c /home/ana/Cpp-Practical-Course/sheet08/exercise1/test/TestMultiMap.cpp",
+  "file": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/test/TestMultiMap.cpp"
+},
+{
+  "directory": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/build/test",
+  "command": "/usr/bin/c++   -I/home/ana/Cpp-Practical-Course/sheet08/exercise1 -isystem /home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/googletest/googletest/include -isystem /home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/googletest/googletest   -Wall -Wextra -Wpedantic   -std=gnu++2a -o CMakeFiles/tester.dir/TestMutexMultiMap.cpp.o -c /home/ana/Cpp-Practical-Course/sheet08/exercise1/test/TestMutexMultiMap.cpp",
+  "file": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/test/TestMutexMultiMap.cpp"
+},
+{
+  "directory": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/build/test",
+  "command": "/usr/bin/c++   -I/home/ana/Cpp-Practical-Course/sheet08/exercise1 -isystem /home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/googletest/googletest/include -isystem /home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/googletest/googletest   -Wall -Wextra -Wpedantic   -std=gnu++2a -o CMakeFiles/tester.dir/Tester.cpp.o -c /home/ana/Cpp-Practical-Course/sheet08/exercise1/test/Tester.cpp",
+  "file": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/test/Tester.cpp"
+},
+{
+  "directory": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/build/benchmark",
+  "command": "/usr/bin/c++   -I/home/ana/Cpp-Practical-Course/sheet08/exercise1 -I/home/ana/Cpp-Practical-Course/sheet08/exercise1/cmake/thirdparty/benchmark/src/../include   -Wall -Wextra -Wpedantic   -std=gnu++2a -o CMakeFiles/parallel_ht_benchmark.dir/BenchmarkSynchronization.cpp.o -c /home/ana/Cpp-Practical-Course/sheet08/exercise1/benchmark/BenchmarkSynchronization.cpp",
+  "file": "/home/ana/Cpp-Practical-Course/sheet08/exercise1/benchmark/BenchmarkSynchronization.cpp"
+}
+]

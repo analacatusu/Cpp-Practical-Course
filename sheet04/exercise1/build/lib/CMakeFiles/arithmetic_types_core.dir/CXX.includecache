@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../lib/Complex.hpp
+
+../lib/Rational.hpp
+compare
+-
+
+/home/ana/Cpp-Practical-Course/sheet04/exercise1/lib/Complex.cpp
+lib/Complex.hpp
+/home/ana/Cpp-Practical-Course/sheet04/exercise1/lib/lib/Complex.hpp
+cmath
+-
+
+/home/ana/Cpp-Practical-Course/sheet04/exercise1/lib/Rational.cpp
+lib/Rational.hpp
+/home/ana/Cpp-Practical-Course/sheet04/exercise1/lib/lib/Rational.hpp
+

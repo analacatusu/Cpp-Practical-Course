@@ -1,0 +1,17 @@
+/home/ana/Cpp-Practical-Course/sheet05/exercise2/build/CMakeFiles/rebuild_cache.dir
+/home/ana/Cpp-Practical-Course/sheet05/exercise2/build/CMakeFiles/raii.dir
+/home/ana/Cpp-Practical-Course/sheet05/exercise2/build/CMakeFiles/edit_cache.dir
+/home/ana/Cpp-Practical-Course/sheet05/exercise2/build/CMakeFiles/lint.dir
+/home/ana/Cpp-Practical-Course/sheet05/exercise2/build/cmake/thirdparty/googletest/CMakeFiles/rebuild_cache.dir
+/home/ana/Cpp-Practical-Course/sheet05/exercise2/build/cmake/thirdparty/googletest/CMakeFiles/edit_cache.dir
+/home/ana/Cpp-Practical-Course/sheet05/exercise2/build/cmake/thirdparty/googletest/googletest/CMakeFiles/rebuild_cache.dir
+/home/ana/Cpp-Practical-Course/sheet05/exercise2/build/cmake/thirdparty/googletest/googletest/CMakeFiles/edit_cache.dir
+/home/ana/Cpp-Practical-Course/sheet05/exercise2/build/cmake/thirdparty/googletest/googletest/CMakeFiles/gtest_main.dir
+/home/ana/Cpp-Practical-Course/sheet05/exercise2/build/cmake/thirdparty/googletest/googletest/CMakeFiles/gtest.dir
+/home/ana/Cpp-Practical-Course/sheet05/exercise2/build/lib/CMakeFiles/rebuild_cache.dir
+/home/ana/Cpp-Practical-Course/sheet05/exercise2/build/lib/CMakeFiles/edit_cache.dir
+/home/ana/Cpp-Practical-Course/sheet05/exercise2/build/lib/CMakeFiles/lint_raii_core.dir
+/home/ana/Cpp-Practical-Course/sheet05/exercise2/build/lib/CMakeFiles/raii_core.dir
+/home/ana/Cpp-Practical-Course/sheet05/exercise2/build/test/CMakeFiles/rebuild_cache.dir
+/home/ana/Cpp-Practical-Course/sheet05/exercise2/build/test/CMakeFiles/edit_cache.dir
+/home/ana/Cpp-Practical-Course/sheet05/exercise2/build/test/CMakeFiles/tester.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -Wpedantic   CMakeFiles/pljit.dir/main.cpp.o  -o pljit  libpljit_core.a semantic/libsemantic_core.a ast/libast_core.a evaluation/libevaluation_core.a parser/libparser_core.a parsetree/libparsetree_core.a lexer/liblexer_core.a codem/libcodem_core.a -lpthread 

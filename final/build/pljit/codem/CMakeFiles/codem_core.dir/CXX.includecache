@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../pljit/codem/CodeManagement.hpp
+iostream
+-
+
+../pljit/codem/Reference.hpp
+iostream
+-
+
+/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/pljit/codem/CodeManagement.cpp
+pljit/codem/CodeManagement.hpp
+/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/pljit/codem/pljit/codem/CodeManagement.hpp
+pljit/codem/Reference.hpp
+/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/pljit/codem/pljit/codem/Reference.hpp
+iomanip
+-
+
+/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/pljit/codem/Reference.cpp
+pljit/codem/Reference.hpp
+/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/pljit/codem/pljit/codem/Reference.hpp
+

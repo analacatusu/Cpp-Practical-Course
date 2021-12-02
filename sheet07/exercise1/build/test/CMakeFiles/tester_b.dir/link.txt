@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -Wpedantic   CMakeFiles/tester_b.dir/Tester.cpp.o CMakeFiles/tester_b.dir/TestPooledAllocator.cpp.o  -o tester_b  ../lib/libgtest.a -lpthread 

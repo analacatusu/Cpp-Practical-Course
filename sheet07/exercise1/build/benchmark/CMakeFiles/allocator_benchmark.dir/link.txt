@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -Wpedantic   CMakeFiles/allocator_benchmark.dir/main.cpp.o  -o allocator_benchmark 

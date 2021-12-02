@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcodem_core.a  CMakeFiles/codem_core.dir/CodeManagement.cpp.o CMakeFiles/codem_core.dir/Reference.cpp.o
+/usr/bin/ranlib libcodem_core.a

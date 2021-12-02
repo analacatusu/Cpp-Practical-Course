@@ -1,0 +1,2 @@
+/usr/bin/ar qc libpljit_core.a  CMakeFiles/pljit_core.dir/Pljit.cpp.o
+/usr/bin/ranlib libpljit_core.a

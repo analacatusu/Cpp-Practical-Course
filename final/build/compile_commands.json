@@ -1,0 +1,137 @@
+[
+{
+  "directory": "/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/build/cmake/thirdparty/googletest/googletest",
+  "command": "/usr/bin/c++   -isystem /home/ana/Documents/cpp-praktikum-exercices-latest-version/final/cmake/thirdparty/googletest/googletest/include -isystem /home/ana/Documents/cpp-praktikum-exercices-latest-version/final/cmake/thirdparty/googletest/googletest   -Wall -Wextra -Wpedantic   -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /home/ana/Documents/cpp-praktikum-exercices-latest-version/final/cmake/thirdparty/googletest/googletest/src/gtest_main.cc",
+  "file": "/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/cmake/thirdparty/googletest/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/build/cmake/thirdparty/googletest/googletest",
+  "command": "/usr/bin/c++   -I/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/cmake/thirdparty/googletest/googletest/include -I/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/cmake/thirdparty/googletest/googletest   -Wall -Wextra -Wpedantic   -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/ana/Documents/cpp-praktikum-exercices-latest-version/final/cmake/thirdparty/googletest/googletest/src/gtest-all.cc",
+  "file": "/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/cmake/thirdparty/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/build/pljit",
+  "command": "/usr/bin/c++   -I/home/ana/Documents/cpp-praktikum-exercices-latest-version/final   -Wall -Wextra -Wpedantic   -std=gnu++2a -o CMakeFiles/pljit.dir/main.cpp.o -c /home/ana/Documents/cpp-praktikum-exercices-latest-version/final/pljit/main.cpp",
+  "file": "/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/pljit/main.cpp"
+},
+{
+  "directory": "/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/build/pljit",
+  "command": "/usr/bin/c++   -I/home/ana/Documents/cpp-praktikum-exercices-latest-version/final   -Wall -Wextra -Wpedantic   -std=gnu++2a -o CMakeFiles/pljit_core.dir/Pljit.cpp.o -c /home/ana/Documents/cpp-praktikum-exercices-latest-version/final/pljit/Pljit.cpp",
+  "file": "/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/pljit/Pljit.cpp"
+},
+{
+  "directory": "/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/build/pljit/codem",
+  "command": "/usr/bin/c++   -I/home/ana/Documents/cpp-praktikum-exercices-latest-version/final   -Wall -Wextra -Wpedantic   -std=gnu++2a -o CMakeFiles/codem_core.dir/CodeManagement.cpp.o -c /home/ana/Documents/cpp-praktikum-exercices-latest-version/final/pljit/codem/CodeManagement.cpp",
+  "file": "/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/pljit/codem/CodeManagement.cpp"
+},
+{
+  "directory": "/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/build/pljit/codem",
+  "command": "/usr/bin/c++   -I/home/ana/Documents/cpp-praktikum-exercices-latest-version/final   -Wall -Wextra -Wpedantic   -std=gnu++2a -o CMakeFiles/codem_core.dir/Reference.cpp.o -c /home/ana/Documents/cpp-praktikum-exercices-latest-version/final/pljit/codem/Reference.cpp",
+  "file": "/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/pljit/codem/Reference.cpp"
+},
+{
+  "directory": "/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/build/pljit/lexer",
+  "command": "/usr/bin/c++   -I/home/ana/Documents/cpp-praktikum-exercices-latest-version/final   -Wall -Wextra -Wpedantic   -std=gnu++2a -o CMakeFiles/lexer_core.dir/Lexer.cpp.o -c /home/ana/Documents/cpp-praktikum-exercices-latest-version/final/pljit/lexer/Lexer.cpp",
+  "file": "/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/pljit/lexer/Lexer.cpp"
+},
+{
+  "directory": "/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/build/pljit/parsetree",
+  "command": "/usr/bin/c++   -I/home/ana/Documents/cpp-praktikum-exercices-latest-version/final   -Wall -Wextra -Wpedantic   -std=gnu++2a -o CMakeFiles/parsetree_core.dir/ParseTree.cpp.o -c /home/ana/Documents/cpp-praktikum-exercices-latest-version/final/pljit/parsetree/ParseTree.cpp",
+  "file": "/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/pljit/parsetree/ParseTree.cpp"
+},
+{
+  "directory": "/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/build/pljit/parsetree",
+  "command": "/usr/bin/c++   -I/home/ana/Documents/cpp-praktikum-exercices-latest-version/final   -Wall -Wextra -Wpedantic   -std=gnu++2a -o CMakeFiles/parsetree_core.dir/ParseTreePrintVisitor.cpp.o -c /home/ana/Documents/cpp-praktikum-exercices-latest-version/final/pljit/parsetree/ParseTreePrintVisitor.cpp",
+  "file": "/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/pljit/parsetree/ParseTreePrintVisitor.cpp"
+},
+{
+  "directory": "/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/build/pljit/parser",
+  "command": "/usr/bin/c++   -I/home/ana/Documents/cpp-praktikum-exercices-latest-version/final   -Wall -Wextra -Wpedantic   -std=gnu++2a -o CMakeFiles/parser_core.dir/Parser.cpp.o -c /home/ana/Documents/cpp-praktikum-exercices-latest-version/final/pljit/parser/Parser.cpp",
+  "file": "/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/pljit/parser/Parser.cpp"
+},
+{
+  "directory": "/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/build/pljit/evaluation",
+  "command": "/usr/bin/c++   -I/home/ana/Documents/cpp-praktikum-exercices-latest-version/final   -Wall -Wextra -Wpedantic   -std=gnu++2a -o CMakeFiles/evaluation_core.dir/SymbolTable.cpp.o -c /home/ana/Documents/cpp-praktikum-exercices-latest-version/final/pljit/evaluation/SymbolTable.cpp",
+  "file": "/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/pljit/evaluation/SymbolTable.cpp"
+},
+{
+  "directory": "/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/build/pljit/evaluation",
+  "command": "/usr/bin/c++   -I/home/ana/Documents/cpp-praktikum-exercices-latest-version/final   -Wall -Wextra -Wpedantic   -std=gnu++2a -o CMakeFiles/evaluation_core.dir/EvaluationContext.cpp.o -c /home/ana/Documents/cpp-praktikum-exercices-latest-version/final/pljit/evaluation/EvaluationContext.cpp",
+  "file": "/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/pljit/evaluation/EvaluationContext.cpp"
+},
+{
+  "directory": "/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/build/pljit/evaluation",
+  "command": "/usr/bin/c++   -I/home/ana/Documents/cpp-praktikum-exercices-latest-version/final   -Wall -Wextra -Wpedantic   -std=gnu++2a -o CMakeFiles/evaluation_core.dir/OptimizationTable.cpp.o -c /home/ana/Documents/cpp-praktikum-exercices-latest-version/final/pljit/evaluation/OptimizationTable.cpp",
+  "file": "/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/pljit/evaluation/OptimizationTable.cpp"
+},
+{
+  "directory": "/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/build/pljit/ast",
+  "command": "/usr/bin/c++   -I/home/ana/Documents/cpp-praktikum-exercices-latest-version/final   -Wall -Wextra -Wpedantic   -std=gnu++2a -o CMakeFiles/ast_core.dir/ASTPrintVisitor.cpp.o -c /home/ana/Documents/cpp-praktikum-exercices-latest-version/final/pljit/ast/ASTPrintVisitor.cpp",
+  "file": "/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/pljit/ast/ASTPrintVisitor.cpp"
+},
+{
+  "directory": "/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/build/pljit/ast",
+  "command": "/usr/bin/c++   -I/home/ana/Documents/cpp-praktikum-exercices-latest-version/final   -Wall -Wextra -Wpedantic   -std=gnu++2a -o CMakeFiles/ast_core.dir/AST.cpp.o -c /home/ana/Documents/cpp-praktikum-exercices-latest-version/final/pljit/ast/AST.cpp",
+  "file": "/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/pljit/ast/AST.cpp"
+},
+{
+  "directory": "/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/build/pljit/ast",
+  "command": "/usr/bin/c++   -I/home/ana/Documents/cpp-praktikum-exercices-latest-version/final   -Wall -Wextra -Wpedantic   -std=gnu++2a -o CMakeFiles/ast_core.dir/ASTOptimizerDeadCode.cpp.o -c /home/ana/Documents/cpp-praktikum-exercices-latest-version/final/pljit/ast/ASTOptimizerDeadCode.cpp",
+  "file": "/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/pljit/ast/ASTOptimizerDeadCode.cpp"
+},
+{
+  "directory": "/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/build/pljit/ast",
+  "command": "/usr/bin/c++   -I/home/ana/Documents/cpp-praktikum-exercices-latest-version/final   -Wall -Wextra -Wpedantic   -std=gnu++2a -o CMakeFiles/ast_core.dir/ASTOptimizerConstantPropagation.cpp.o -c /home/ana/Documents/cpp-praktikum-exercices-latest-version/final/pljit/ast/ASTOptimizerConstantPropagation.cpp",
+  "file": "/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/pljit/ast/ASTOptimizerConstantPropagation.cpp"
+},
+{
+  "directory": "/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/build/pljit/semantic",
+  "command": "/usr/bin/c++   -I/home/ana/Documents/cpp-praktikum-exercices-latest-version/final   -Wall -Wextra -Wpedantic   -std=gnu++2a -o CMakeFiles/semantic_core.dir/SemanticAnalysis.cpp.o -c /home/ana/Documents/cpp-praktikum-exercices-latest-version/final/pljit/semantic/SemanticAnalysis.cpp",
+  "file": "/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/pljit/semantic/SemanticAnalysis.cpp"
+},
+{
+  "directory": "/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/build/test",
+  "command": "/usr/bin/c++   -I/home/ana/Documents/cpp-praktikum-exercices-latest-version/final -isystem /home/ana/Documents/cpp-praktikum-exercices-latest-version/final/cmake/thirdparty/googletest/googletest/include -isystem /home/ana/Documents/cpp-praktikum-exercices-latest-version/final/cmake/thirdparty/googletest/googletest   -Wall -Wextra -Wpedantic   -std=gnu++2a -o CMakeFiles/tester.dir/TestLexer.cpp.o -c /home/ana/Documents/cpp-praktikum-exercices-latest-version/final/test/TestLexer.cpp",
+  "file": "/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/test/TestLexer.cpp"
+},
+{
+  "directory": "/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/build/test",
+  "command": "/usr/bin/c++   -I/home/ana/Documents/cpp-praktikum-exercices-latest-version/final -isystem /home/ana/Documents/cpp-praktikum-exercices-latest-version/final/cmake/thirdparty/googletest/googletest/include -isystem /home/ana/Documents/cpp-praktikum-exercices-latest-version/final/cmake/thirdparty/googletest/googletest   -Wall -Wextra -Wpedantic   -std=gnu++2a -o CMakeFiles/tester.dir/TestParser.cpp.o -c /home/ana/Documents/cpp-praktikum-exercices-latest-version/final/test/TestParser.cpp",
+  "file": "/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/test/TestParser.cpp"
+},
+{
+  "directory": "/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/build/test",
+  "command": "/usr/bin/c++   -I/home/ana/Documents/cpp-praktikum-exercices-latest-version/final -isystem /home/ana/Documents/cpp-praktikum-exercices-latest-version/final/cmake/thirdparty/googletest/googletest/include -isystem /home/ana/Documents/cpp-praktikum-exercices-latest-version/final/cmake/thirdparty/googletest/googletest   -Wall -Wextra -Wpedantic   -std=gnu++2a -o CMakeFiles/tester.dir/TestAST.cpp.o -c /home/ana/Documents/cpp-praktikum-exercices-latest-version/final/test/TestAST.cpp",
+  "file": "/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/test/TestAST.cpp"
+},
+{
+  "directory": "/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/build/test",
+  "command": "/usr/bin/c++   -I/home/ana/Documents/cpp-praktikum-exercices-latest-version/final -isystem /home/ana/Documents/cpp-praktikum-exercices-latest-version/final/cmake/thirdparty/googletest/googletest/include -isystem /home/ana/Documents/cpp-praktikum-exercices-latest-version/final/cmake/thirdparty/googletest/googletest   -Wall -Wextra -Wpedantic   -std=gnu++2a -o CMakeFiles/tester.dir/TestEvaluation.cpp.o -c /home/ana/Documents/cpp-praktikum-exercices-latest-version/final/test/TestEvaluation.cpp",
+  "file": "/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/test/TestEvaluation.cpp"
+},
+{
+  "directory": "/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/build/test",
+  "command": "/usr/bin/c++   -I/home/ana/Documents/cpp-praktikum-exercices-latest-version/final -isystem /home/ana/Documents/cpp-praktikum-exercices-latest-version/final/cmake/thirdparty/googletest/googletest/include -isystem /home/ana/Documents/cpp-praktikum-exercices-latest-version/final/cmake/thirdparty/googletest/googletest   -Wall -Wextra -Wpedantic   -std=gnu++2a -o CMakeFiles/tester.dir/TestOptimization.cpp.o -c /home/ana/Documents/cpp-praktikum-exercices-latest-version/final/test/TestOptimization.cpp",
+  "file": "/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/test/TestOptimization.cpp"
+},
+{
+  "directory": "/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/build/test",
+  "command": "/usr/bin/c++   -I/home/ana/Documents/cpp-praktikum-exercices-latest-version/final -isystem /home/ana/Documents/cpp-praktikum-exercices-latest-version/final/cmake/thirdparty/googletest/googletest/include -isystem /home/ana/Documents/cpp-praktikum-exercices-latest-version/final/cmake/thirdparty/googletest/googletest   -Wall -Wextra -Wpedantic   -std=gnu++2a -o CMakeFiles/tester.dir/TestPljit.cpp.o -c /home/ana/Documents/cpp-praktikum-exercices-latest-version/final/test/TestPljit.cpp",
+  "file": "/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/test/TestPljit.cpp"
+},
+{
+  "directory": "/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/build/test",
+  "command": "/usr/bin/c++   -I/home/ana/Documents/cpp-praktikum-exercices-latest-version/final -isystem /home/ana/Documents/cpp-praktikum-exercices-latest-version/final/cmake/thirdparty/googletest/googletest/include -isystem /home/ana/Documents/cpp-praktikum-exercices-latest-version/final/cmake/thirdparty/googletest/googletest   -Wall -Wextra -Wpedantic   -std=gnu++2a -o CMakeFiles/tester.dir/TestASTPrintVisitor.cpp.o -c /home/ana/Documents/cpp-praktikum-exercices-latest-version/final/test/TestASTPrintVisitor.cpp",
+  "file": "/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/test/TestASTPrintVisitor.cpp"
+},
+{
+  "directory": "/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/build/test",
+  "command": "/usr/bin/c++   -I/home/ana/Documents/cpp-praktikum-exercices-latest-version/final -isystem /home/ana/Documents/cpp-praktikum-exercices-latest-version/final/cmake/thirdparty/googletest/googletest/include -isystem /home/ana/Documents/cpp-praktikum-exercices-latest-version/final/cmake/thirdparty/googletest/googletest   -Wall -Wextra -Wpedantic   -std=gnu++2a -o CMakeFiles/tester.dir/TestParseTreePrintVisitor.cpp.o -c /home/ana/Documents/cpp-praktikum-exercices-latest-version/final/test/TestParseTreePrintVisitor.cpp",
+  "file": "/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/test/TestParseTreePrintVisitor.cpp"
+},
+{
+  "directory": "/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/build/test",
+  "command": "/usr/bin/c++   -I/home/ana/Documents/cpp-praktikum-exercices-latest-version/final -isystem /home/ana/Documents/cpp-praktikum-exercices-latest-version/final/cmake/thirdparty/googletest/googletest/include -isystem /home/ana/Documents/cpp-praktikum-exercices-latest-version/final/cmake/thirdparty/googletest/googletest   -Wall -Wextra -Wpedantic   -std=gnu++2a -o CMakeFiles/tester.dir/Tester.cpp.o -c /home/ana/Documents/cpp-praktikum-exercices-latest-version/final/test/Tester.cpp",
+  "file": "/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/test/Tester.cpp"
+}
+]

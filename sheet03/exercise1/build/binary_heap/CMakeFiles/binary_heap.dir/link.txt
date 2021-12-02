@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -Wpedantic   CMakeFiles/binary_heap.dir/main.cpp.o  -o binary_heap  ../lib/libbinary_heap_core.a 

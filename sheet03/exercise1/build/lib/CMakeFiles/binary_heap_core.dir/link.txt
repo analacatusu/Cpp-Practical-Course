@@ -1,0 +1,2 @@
+/usr/bin/ar qc libbinary_heap_core.a  CMakeFiles/binary_heap_core.dir/BinaryHeap.cpp.o
+/usr/bin/ranlib libbinary_heap_core.a

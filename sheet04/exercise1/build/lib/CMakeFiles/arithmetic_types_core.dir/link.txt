@@ -1,0 +1,2 @@
+/usr/bin/ar qc libarithmetic_types_core.a  CMakeFiles/arithmetic_types_core.dir/Complex.cpp.o CMakeFiles/arithmetic_types_core.dir/Rational.cpp.o
+/usr/bin/ranlib libarithmetic_types_core.a

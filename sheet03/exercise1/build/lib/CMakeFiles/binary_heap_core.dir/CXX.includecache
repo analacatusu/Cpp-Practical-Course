@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../lib/BinaryHeap.hpp
+ostream
+-
+vector
+-
+
+/home/ana/Documents/cpp-praktikum-exercices/sheet03/exercise1/lib/BinaryHeap.cpp
+lib/BinaryHeap.hpp
+/home/ana/Documents/cpp-praktikum-exercices/sheet03/exercise1/lib/lib/BinaryHeap.hpp
+bitset
+-
+cassert
+-
+cmath
+-
+

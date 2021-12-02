@@ -1,0 +1,2 @@
+/usr/bin/ar qc libobject_representation_core.a  CMakeFiles/object_representation_core.dir/ObjectRepresentation.cpp.o
+/usr/bin/ranlib libobject_representation_core.a

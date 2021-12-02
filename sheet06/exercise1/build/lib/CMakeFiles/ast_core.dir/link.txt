@@ -1,0 +1,2 @@
+/usr/bin/ar qc libast_core.a  CMakeFiles/ast_core.dir/AST.cpp.o CMakeFiles/ast_core.dir/EvaluationContext.cpp.o CMakeFiles/ast_core.dir/PrintVisitor.cpp.o
+/usr/bin/ranlib libast_core.a

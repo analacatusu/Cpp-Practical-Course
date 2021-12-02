@@ -1,0 +1,2 @@
+/usr/bin/ar qc liballocator_list_dummy.a  CMakeFiles/allocator_list_dummy.dir/Find_dummy.cpp.o CMakeFiles/allocator_list_dummy.dir/List_dummy.cpp.o CMakeFiles/allocator_list_dummy.dir/MallocAllocator_dummy.cpp.o CMakeFiles/allocator_list_dummy.dir/PooledAllocator_dummy.cpp.o
+/usr/bin/ranlib liballocator_list_dummy.a

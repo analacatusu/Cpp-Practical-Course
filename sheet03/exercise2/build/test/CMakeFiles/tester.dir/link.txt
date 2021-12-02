@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -Wpedantic   CMakeFiles/tester.dir/Tester.cpp.o CMakeFiles/tester.dir/TestSortPointers.cpp.o  -o tester  ../lib/libsort_pointers_core.a ../lib/libgtest.a -lpthread 

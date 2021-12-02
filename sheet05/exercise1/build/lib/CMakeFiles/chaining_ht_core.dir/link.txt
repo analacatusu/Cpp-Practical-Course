@@ -1,0 +1,2 @@
+/usr/bin/ar qc libchaining_ht_core.a  CMakeFiles/chaining_ht_core.dir/GenericValue.cpp.o CMakeFiles/chaining_ht_core.dir/ChainingHashTable.cpp.o
+/usr/bin/ranlib libchaining_ht_core.a

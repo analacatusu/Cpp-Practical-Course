@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsort_pointers_core.a  CMakeFiles/sort_pointers_core.dir/SortPointers.cpp.o
+/usr/bin/ranlib libsort_pointers_core.a

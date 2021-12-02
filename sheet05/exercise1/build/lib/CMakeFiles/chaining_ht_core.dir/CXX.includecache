@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../lib/ChainingHashTable.hpp
+lib/GenericValue.hpp
+../lib/lib/GenericValue.hpp
+iterator
+-
+memory
+-
+vector
+-
+
+../lib/GenericValue.hpp
+array
+-
+cstddef
+-
+cstdint
+-
+
+/home/ana/Cpp-Practical-Course/sheet05/exercise1/lib/ChainingHashTable.cpp
+lib/ChainingHashTable.hpp
+/home/ana/Cpp-Practical-Course/sheet05/exercise1/lib/lib/ChainingHashTable.hpp
+cassert
+-
+iostream
+-
+
+/home/ana/Cpp-Practical-Course/sheet05/exercise1/lib/GenericValue.cpp
+lib/GenericValue.hpp
+/home/ana/Cpp-Practical-Course/sheet05/exercise1/lib/lib/GenericValue.hpp
+cstring
+-
+

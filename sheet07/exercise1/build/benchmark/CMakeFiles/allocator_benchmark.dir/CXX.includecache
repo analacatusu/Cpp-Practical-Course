@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../lib/Find.hpp
+lib/List.hpp
+../lib/lib/List.hpp
+
+../lib/List.hpp
+lib/MallocAllocator.hpp
+../lib/lib/MallocAllocator.hpp
+concepts
+-
+new
+-
+
+../lib/MallocAllocator.hpp
+cstdlib
+-
+
+../lib/PooledAllocator.hpp
+cstdlib
+-
+
+/home/ana/Cpp-Practical-Course/sheet07/exercise1/benchmark/main.cpp
+lib/Find.hpp
+/home/ana/Cpp-Practical-Course/sheet07/exercise1/benchmark/lib/Find.hpp
+lib/List.hpp
+/home/ana/Cpp-Practical-Course/sheet07/exercise1/benchmark/lib/List.hpp
+lib/MallocAllocator.hpp
+/home/ana/Cpp-Practical-Course/sheet07/exercise1/benchmark/lib/MallocAllocator.hpp
+lib/PooledAllocator.hpp
+/home/ana/Cpp-Practical-Course/sheet07/exercise1/benchmark/lib/PooledAllocator.hpp
+chrono
+-
+iomanip
+-
+iostream
+-
+optional
+-
+

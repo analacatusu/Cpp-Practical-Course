@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../lib/AST.hpp
+lib/ASTVisitor.hpp
+../lib/lib/ASTVisitor.hpp
+lib/EvaluationContext.hpp
+../lib/lib/EvaluationContext.hpp
+memory
+-
+
+../lib/ASTVisitor.hpp
+
+../lib/EvaluationContext.hpp
+vector
+-
+
+/home/ana/Cpp-Practical-Course/sheet06/exercise1/lib/AST.cpp
+lib/AST.hpp
+/home/ana/Cpp-Practical-Course/sheet06/exercise1/lib/lib/AST.hpp
+cmath
+-
+iostream
+-
+

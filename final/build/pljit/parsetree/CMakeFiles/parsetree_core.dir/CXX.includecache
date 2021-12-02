@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../pljit/codem/CodeManagement.hpp
+iostream
+-
+
+../pljit/codem/Reference.hpp
+iostream
+-
+
+../pljit/parsetree/ParseTree.hpp
+pljit/codem/Reference.hpp
+../pljit/parsetree/pljit/codem/Reference.hpp
+pljit/parsetree/ParseTreeVisitor.hpp
+../pljit/parsetree/pljit/parsetree/ParseTreeVisitor.hpp
+memory
+-
+vector
+-
+
+../pljit/parsetree/ParseTreePrintVisitor.hpp
+pljit/codem/CodeManagement.hpp
+../pljit/parsetree/pljit/codem/CodeManagement.hpp
+pljit/parsetree/ParseTree.hpp
+../pljit/parsetree/pljit/parsetree/ParseTree.hpp
+ostream
+-
+
+../pljit/parsetree/ParseTreeVisitor.hpp
+
+/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/pljit/parsetree/ParseTree.cpp
+pljit/parsetree/ParseTree.hpp
+/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/pljit/parsetree/pljit/parsetree/ParseTree.hpp
+
+/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/pljit/parsetree/ParseTreePrintVisitor.cpp
+pljit/parsetree/ParseTreePrintVisitor.hpp
+/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/pljit/parsetree/pljit/parsetree/ParseTreePrintVisitor.hpp
+

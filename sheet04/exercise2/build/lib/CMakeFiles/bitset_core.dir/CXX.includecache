@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../lib/BitSet.hpp
+cstddef
+-
+vector
+-
+
+/home/ana/Cpp-Practical-Course/sheet04/exercise2/lib/BitSet.cpp
+lib/BitSet.hpp
+/home/ana/Cpp-Practical-Course/sheet04/exercise2/lib/lib/BitSet.hpp
+cassert
+-
+

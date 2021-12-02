@@ -1,0 +1,2 @@
+/usr/bin/ar qc libparsetree_core.a  CMakeFiles/parsetree_core.dir/ParseTree.cpp.o CMakeFiles/parsetree_core.dir/ParseTreePrintVisitor.cpp.o
+/usr/bin/ranlib libparsetree_core.a

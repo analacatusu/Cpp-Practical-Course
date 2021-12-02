@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -Wpedantic   CMakeFiles/tester.dir/TestAtomicMultiMap.cpp.o CMakeFiles/tester.dir/TestMultiMap.cpp.o CMakeFiles/tester.dir/TestMutexMultiMap.cpp.o CMakeFiles/tester.dir/Tester.cpp.o  -o tester  ../lib/libparallel_ht_core.a ../lib/libgtest.a -lpthread 

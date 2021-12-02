@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../pljit/codem/CodeManagement.hpp
+iostream
+-
+
+../pljit/codem/Reference.hpp
+iostream
+-
+
+../pljit/lexer/Lexer.hpp
+pljit/codem/CodeManagement.hpp
+../pljit/lexer/pljit/codem/CodeManagement.hpp
+pljit/lexer/Token.hpp
+../pljit/lexer/pljit/lexer/Token.hpp
+memory
+-
+
+../pljit/lexer/Token.hpp
+pljit/codem/Reference.hpp
+../pljit/lexer/pljit/codem/Reference.hpp
+
+/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/pljit/lexer/Lexer.cpp
+pljit/lexer/Lexer.hpp
+/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/pljit/lexer/pljit/lexer/Lexer.hpp
+

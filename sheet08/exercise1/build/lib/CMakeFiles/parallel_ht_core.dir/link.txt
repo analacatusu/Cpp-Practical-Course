@@ -1,0 +1,2 @@
+/usr/bin/ar qc libparallel_ht_core.a  CMakeFiles/parallel_ht_core.dir/AtomicMultiMap.cpp.o CMakeFiles/parallel_ht_core.dir/MultiMap.cpp.o CMakeFiles/parallel_ht_core.dir/MutexMultiMap.cpp.o
+/usr/bin/ranlib libparallel_ht_core.a

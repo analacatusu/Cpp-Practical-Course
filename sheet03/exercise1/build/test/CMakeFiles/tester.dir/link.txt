@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -Wpedantic   CMakeFiles/tester.dir/Tester.cpp.o CMakeFiles/tester.dir/TestBinaryHeap.cpp.o  -o tester  ../lib/libbinary_heap_core.a ../lib/libgtest.a -lpthread 

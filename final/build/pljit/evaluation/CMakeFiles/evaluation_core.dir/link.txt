@@ -1,0 +1,2 @@
+/usr/bin/ar qc libevaluation_core.a  CMakeFiles/evaluation_core.dir/SymbolTable.cpp.o CMakeFiles/evaluation_core.dir/EvaluationContext.cpp.o CMakeFiles/evaluation_core.dir/OptimizationTable.cpp.o
+/usr/bin/ranlib libevaluation_core.a

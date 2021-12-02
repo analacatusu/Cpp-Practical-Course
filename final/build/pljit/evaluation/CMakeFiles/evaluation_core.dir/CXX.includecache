@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../pljit/codem/Reference.hpp
+iostream
+-
+
+../pljit/evaluation/EvaluationContext.hpp
+pljit/evaluation/OptimizationTable.hpp
+../pljit/evaluation/pljit/evaluation/OptimizationTable.hpp
+
+../pljit/evaluation/OptimizationTable.hpp
+pljit/evaluation/SymbolTable.hpp
+../pljit/evaluation/pljit/evaluation/SymbolTable.hpp
+
+../pljit/evaluation/Symbol.hpp
+pljit/codem/Reference.hpp
+../pljit/evaluation/pljit/codem/Reference.hpp
+
+../pljit/evaluation/SymbolTable.hpp
+pljit/evaluation/Symbol.hpp
+../pljit/evaluation/pljit/evaluation/Symbol.hpp
+unordered_map
+-
+vector
+-
+
+/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/pljit/evaluation/EvaluationContext.cpp
+pljit/evaluation/EvaluationContext.hpp
+/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/pljit/evaluation/pljit/evaluation/EvaluationContext.hpp
+
+/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/pljit/evaluation/OptimizationTable.cpp
+pljit/evaluation/OptimizationTable.hpp
+/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/pljit/evaluation/pljit/evaluation/OptimizationTable.hpp
+
+/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/pljit/evaluation/SymbolTable.cpp
+pljit/evaluation/SymbolTable.hpp
+/home/ana/Documents/cpp-praktikum-exercices-latest-version/final/pljit/evaluation/pljit/evaluation/SymbolTable.hpp
+

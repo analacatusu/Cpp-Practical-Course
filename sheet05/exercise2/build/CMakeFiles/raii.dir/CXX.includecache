@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../lib/TempDirectory.hpp
+lib/TempFile.hpp
+../lib/lib/TempFile.hpp
+memory
+-
+string
+-
+vector
+-
+
+../lib/TempFile.hpp
+string
+-
+
+/home/ana/Cpp-Practical-Course/sheet05/exercise2/lib/CommandLine.hpp
+lib/TempDirectory.hpp
+/home/ana/Cpp-Practical-Course/sheet05/exercise2/lib/lib/TempDirectory.hpp
+list
+-
+memory
+-
+
+/home/ana/Cpp-Practical-Course/sheet05/exercise2/main.cpp
+lib/CommandLine.hpp
+/home/ana/Cpp-Practical-Course/sheet05/exercise2/lib/CommandLine.hpp
+

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../lib/ObjectRepresentation.hpp
+vector
+-
+
+/home/ana/Cpp-Practical-Course/sheet03/exercise3/lib/ObjectRepresentation.cpp
+lib/ObjectRepresentation.hpp
+/home/ana/Cpp-Practical-Course/sheet03/exercise3/lib/lib/ObjectRepresentation.hpp
+cstddef
+-
+iostream
+-
+vector
+-
+

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsemantic_core.a  CMakeFiles/semantic_core.dir/SemanticAnalysis.cpp.o
+/usr/bin/ranlib libsemantic_core.a

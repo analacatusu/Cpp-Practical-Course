@@ -1,0 +1,2 @@
+/usr/bin/ar qc libraii_core.a  CMakeFiles/raii_core.dir/CommandLine.cpp.o CMakeFiles/raii_core.dir/OSApi.cpp.o CMakeFiles/raii_core.dir/TempDirectory.cpp.o CMakeFiles/raii_core.dir/TempFile.cpp.o
+/usr/bin/ranlib libraii_core.a
