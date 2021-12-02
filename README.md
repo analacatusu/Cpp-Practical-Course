@@ -19,7 +19,7 @@ on your terminal which can be found in the ```test``` folder which is located in
 Afterwards, a number of tests that were used to grade the tasks will be running.
 
 An example can be seen here:
-insert example
+![tests](assets/tests.png)
 
 Some of the exercices also include executables inside the ```lib``` folder which can also used to interact more actively with the code.
 
