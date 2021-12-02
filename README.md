@@ -1,7 +1,8 @@
 # Cpp-Practical-Course
 This repo includes the programming tasks that I worked on during the practical course: Sytems Programming in C++ in the summer semester 2021.
 Sheets 1 and 2 are not included, since they don't contain any programming tasks, just a familiarization with the Linux system and Git. 
-The C++ code adheres to the C++20 style. Compilation of the programs was developed with CMake and Makefiles.
+The C++ code adheres to the C++20 style. Compilation of the programs was developed with CMake and Makefiles. 
+This repo will most likely only run on a Linux system.
 
 # Guidelines
 Start by cloning this repo wherever you like.
