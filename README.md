@@ -33,7 +33,7 @@ This exercice was about implementing a binary heap and also printing it in the `
 The main purpose of this exercice was to play around with raw pointers.
 ### Exercice 3
 Here we had to implement the object representation of doubles and floats by using the mantissa and the exponent. 
-The goal was to familiarize oneself with using the std::byte object and calculations on bits.
+The goal was to familiarize oneself with using the std::byte object and bit functions.
 
 ## Sheet04
 ### Exercice 1
@@ -45,7 +45,7 @@ Here we had to implement a bitset and we also learned how to build iterators on 
 ### Exercice 1
 This exercice was about implementing a chaining hash table with generic values.
 We experimented with smart pointers and how to build RAII wrappers on our own. 
-Also, copy and move constructurs were handled.
+Also, copy and move constructurs were implemented.
 ### Exercice 2
 Here the scope was to build a command line where a user could add and delete folders and files.
 Again, we experimented with RAII wrappers.
